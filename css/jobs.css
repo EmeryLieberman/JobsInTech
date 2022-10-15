@@ -1,0 +1,52 @@
+body{
+  background-color:#B9D8B3;
+  font-family:monospace;
+}
+
+h1{
+  color:black;
+  font-size: 29px;
+  text-align:center;
+}
+
+.jobs{
+  font-size: 20px;
+  text-align:center;
+}
+
+header{
+  background-color:#8BB881;
+  color:#398E68;
+  border-style:dotted;
+  height:5;
+  border-width:3.5px;
+  border-color:#1E5128;
+}
+
+a{
+  color:#398E68;
+  text-shadow: 1.5px 1.5px #1E5128;
+}
+a:hover{
+  color:#1E5128;
+  text-shadow: 1.5px 1.5px #398E68;
+}
+
+li, p{
+  font-size:17px;
+  color:#1E5128;
+}
+
+hr{
+  border-style: none;
+  border-bottom-style: dotted;
+  height: 5;
+  border-width: 3.5px;
+  border-color:#1E5128;
+}
+
+img{
+  height:180px;
+  margin: 13px;
+  border-radius:10px;
+}

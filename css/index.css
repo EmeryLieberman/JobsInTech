@@ -1,0 +1,117 @@
+body{
+  background-color:#B9D8B3;
+  font-family:monospace;
+}
+
+aside{
+  width: 28%;
+  height:995px;
+  float: left;
+  font-style: italic;
+  border-style: dotted;
+  border-width: 3.5px;
+  border-color:#1E5128;
+  text-align: center;
+  margin-right:17px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+  background-color:#8BB881;
+}
+h1{
+  font-size:30px;
+  color:black;
+}
+
+hr{
+  border-style: none;
+  border-bottom-style: dotted;
+  height: 5;
+  border-width: 3.5px;
+  border-color:#1E5128;
+}
+
+h2{
+  font-size: 22px;
+  color:black;
+}
+
+h4{
+  color:#1E5128;
+  font-size: 13px;
+}
+
+p,li{
+  font-size: 18px;
+  color:#1E5128;
+}
+
+a{
+  color:#398E68;
+  text-shadow: 1.5px 1.5px #1E5128;
+}
+a:hover{
+  color:#1E5128;
+  text-shadow: 1.5px 1.5px #398E68;
+}
+img{
+  height:77px;
+  border-radius:10px;
+}
+
+br{
+  line-height: 8px;
+}
+ div{
+   height:130px;
+   margin: 2px;
+ }
+
+ header{
+   background-color:#8BB892;
+   text-align:center;
+   border-style:dotted;
+   height:5;
+   border-width:3.5px;
+   border-color:#1E5128;
+ }
+ footer{
+   margin-top:20px;
+   padding:10px;
+   border-style:dotted;
+   height: 5;
+   border-width: 3.5px;
+   border-color:#1E5128;
+   text-align:center;
+   background-color:#8BB892;
+ }
+
+ .a{
+   color:red;
+ }
+ .b{
+   color:orange;
+ }
+ .c{
+   color:yellow;
+ }
+ .d{
+   color:green;
+ }
+ .e{
+   color:blue;
+ }
+ .f{
+   color:purple;
+ }
+ .g{
+   color:hotpink;
+ }
+ .sadie{
+   color:#480885;
+  font-family:"marker felt", fantasy;
+ }
+ .emery{
+   color:#312885;
+   text-shadow: 2px 2px white;
+   font-family:"comic sans",cursive;
+ }
